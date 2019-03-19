@@ -1,3 +1,5 @@
 My first line in project
 Paris is the capital of France
 Tokio is the capital of Japan
+Kiev is the capital of Ukraine
+Bangkhok is the capital of Thailand
